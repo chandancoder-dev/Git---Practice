@@ -13,3 +13,13 @@ function greetUser(userName) {
 greetUser(name);
 
 console.log(`Current Role: ${role}`);
+
+const skills = ["HTML", "CSS", "JavaScript", "Git", "GitHub"];
+
+console.log("Learning Skills:");
+
+skills.forEach((skill, index) => {
+    console.log(`${index + 1}. ${skill}`);
+});
+
+console.log("Keep learning and keep committing! 🚀");
