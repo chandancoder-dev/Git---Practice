@@ -1,13 +1,13 @@
-let name = "chandan";
-console.log(name);
-console.log("git practice 2 ");
 // Day 3 Git Practice
 
 const name = "Chandan";
 const role = "Repository Manager";
 
-function greetUser(name) {
-    console.log(`Hello ${name}! Welcome to Git Practice.`);
+console.log(name);
+console.log("Git Practice 2");
+
+function greetUser(userName) {
+    console.log(`Hello ${userName}! Welcome to Git Practice.`);
 }
 
 greetUser(name);
