@@ -23,3 +23,14 @@ skills.forEach((skill, index) => {
 });
 
 console.log("Keep learning and keep committing! 🚀");
+
+
+// Day 4 Git Practice
+
+const skills = ["HTML", "CSS", "JavaScript", "Git", "GitHub"];
+
+skills.forEach(skill => {
+    console.log(`Learning: ${skill}`);
+});
+
+console.log("Keep learning and keep committing! 🚀");
