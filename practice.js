@@ -33,4 +33,4 @@ skills.forEach(skill => {
     console.log(`Learning: ${skill}`);
 });
 
-console.log("Keep learning and keep committing, keep building! 🚀");
+console.log("Keep learning and keep committing,!🚀");
