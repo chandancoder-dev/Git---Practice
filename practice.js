@@ -34,3 +34,8 @@ console.log("Keep learning and keep committing! 🚀");
 console.log("Git Practice 13");
 
 console.log("Git Practice 14");
+if (true) {
+  console.log("Git Practice 15");
+}
+
+console.log("Git Practice 16");
