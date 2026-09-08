@@ -31,4 +31,4 @@ skills.forEach((skill) => {
 });
 
 console.log("Keep learning and keep committing! 🚀");
-console.log("Git Practice 12");
+console.log("Git Practice 13");
