@@ -26,11 +26,9 @@ console.log("Keep learning and keep committing! 🚀");
 
 // Day 5 Git Practice
 
-const skills = ["HTML", "CSS", "JavaScript", "Git", "GitHub"];
-
 skills.forEach((skill) => {
   console.log(`Learning: ${skill}`);
 });
 
-console.log("Keep learning and keep committing,!🚀");
+console.log("Keep learning and keep committing! 🚀");
 console.log("Git Practice 12");
