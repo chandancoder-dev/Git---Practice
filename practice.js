@@ -22,18 +22,13 @@ skills.forEach((skill, index) => {
   console.log(`${index + 1}. ${skill}`);
 });
 
-console.log("Keep learning and keep committing! 🚀");
+console.log("Keep learning and keep committing!");
 
 // Day 5 Git Practice
 
-skills.forEach((skill) => {
-  console.log(`Learning: ${skill}`);
-});
-
-console.log("Keep learning and keep committing! 🚀");
 console.log("Git Practice 13");
-
 console.log("Git Practice 14");
+
 if (true) {
   console.log("Git Practice 15");
 }
