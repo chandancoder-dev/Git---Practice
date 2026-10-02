@@ -33,4 +33,4 @@ if (true) {
   console.log("Git Practice 15");
 }
 
-console.log("Git Practice 21");
+console.log("Git Practice 22");
